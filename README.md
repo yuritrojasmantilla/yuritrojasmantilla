@@ -11,7 +11,7 @@
 
 <br>
 
-## 🌍 Sobre mí
+## SOBRE MI
 
 <picture>
   <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
@@ -52,7 +52,7 @@ if __name__ == '__main__':
 
 <br>
 
-## 🛠️ Habilidades
+## HABILIDADES
 
 <br>
 
@@ -96,36 +96,7 @@ if __name__ == '__main__':
 
 <br>
 
-## 📊 GitHub Stats
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/yuritrojasmantilla/">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuritrojasmantilla&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C8BE25&icon_color=C8BE25&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuritrojasmantilla&show_icons=true&locale=en&layout=compact&line_height=20&title_color=C8BE25&icon_color=C8BE25&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
-  </a>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🐍 La serpiente se come mis contribuciones
-
-<p align="center">
-  <img src="https://github.com/yuritrojasmantilla/yuritrojasmantilla/blob/output/github-contribution-grid-snake.svg?" alt="Snake animation"/>
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🤝 Conectemos
+## CONTACTAME
 
 <br>
 
@@ -139,7 +110,7 @@ if __name__ == '__main__':
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/TU_USUARIO_INSTAGRAM/">
+<a href="https://www.instagram.com/__yuritrm/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;
@@ -149,15 +120,23 @@ if __name__ == '__main__':
 
 </div>
 
+## 🐍 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuritrojasmantilla/yuritrojasmantilla/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
 <br>
-<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br><br><br>
 
 <div align="center">
   <i>✨ "Las rocas guardan millones de años de historia; el código, las posibilidades del mañana." ✨</i>
 </div>
 
-<br>
-<br>
+<br><br>
 
 ---
 
