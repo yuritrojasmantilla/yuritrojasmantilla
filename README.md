@@ -13,10 +13,6 @@
 
 ## SOBRE MI
 
-<picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-</picture>
-
 Soy estudiante de **Geología** en la Universidad Industrial de Santander (UIS) y de **Desarrollo de Software** en Campuslands, con 22 años y una gran pasión por el punto donde la ciencia de la Tierra y la programación se encuentran. Me fascina cómo el código puede ayudarnos a entender mejor nuestro planeta: desde el análisis de datos sísmicos hasta la visualización de estructuras geológicas.
 
 - 🪨 Estudiante de Geología — UIS, Bucaramanga
