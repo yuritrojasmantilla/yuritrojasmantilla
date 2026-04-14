@@ -131,11 +131,11 @@ if __name__ == '__main__':
 
 <div align="center">
 
-<a href="mailto:TU_CORREO@gmail.com">
+<a href="mailto:yuritrojasmantilla@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/">
+<a href="https://www.linkedin.com/in/yuritza-j-rojas-m-/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -143,7 +143,7 @@ if __name__ == '__main__':
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://discord.com/users/TU_ID_DISCORD">
+<a href="https://discord.com/users/rm22dorot_38306">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
