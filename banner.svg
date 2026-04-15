@@ -1,0 +1,37 @@
+<svg width="100%" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Banner de perfil – Yuritza Rojas</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c8cdd6"/>
+      <stop offset="50%" stop-color="#dde0e8"/>
+      <stop offset="100%" stop-color="#b8c0cc"/>
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#a0a8b8" stroke-width="0.4" opacity="0.5"/>
+    </pattern>
+  </defs>
+
+  <rect width="680" height="220" fill="url(#bg)" rx="12"/>
+  <rect width="680" height="220" fill="url(#grid)" rx="12"/>
+
+  <circle cx="340" cy="38" r="22" fill="none" stroke="#3730a3" stroke-width="2"/>
+  <path d="M340 20 C329 20 320 29 320 40 C320 48.8 325.8 56.2 333.8 58.8 C334.8 59 335.2 58.4 335.2 57.8 C335.2 57.3 335.2 55.8 335.2 53.8 C329.6 55 328.4 51 328.4 51 C327.5 48.8 326.2 48.2 326.2 48.2 C324.4 47 326.3 47 326.3 47 C328.3 47.1 329.3 49 329.3 49 C331.1 52.1 334 51.2 335.3 50.6 C335.5 49.4 336 48.6 336.5 48.1 C331.8 47.6 326.9 45.8 326.9 37.8 C326.9 35.6 327.7 33.9 329.3 32.5 C329.1 32 328.3 30.1 329.5 27.5 C329.5 27.5 331.2 26.9 335.2 29.4 C336.9 28.9 338.7 28.7 340.5 28.7 C342.3 28.7 344.1 28.9 345.8 29.4 C349.8 26.9 351.5 27.5 351.5 27.5 C352.7 30.1 351.9 32 351.7 32.5 C353.3 33.9 354.1 35.6 354.1 37.8 C354.1 45.8 349.2 47.6 344.5 48.1 C345.1 48.7 345.7 49.9 345.7 51.8 C345.7 54.6 345.7 56.8 345.7 57.8 C345.7 58.4 346.1 59 347.1 58.8 C355.2 56.2 361 48.8 361 40 C361 29 352 20 340 20 Z" fill="#3730a3"/>
+
+  <text x="340" y="84" text-anchor="middle" font-family="monospace" font-size="11" fill="#3730a3" opacity="0.85">~/earth $ python explore.py |</text>
+  <text x="340" y="120" text-anchor="middle" font-family="sans-serif" font-size="38" font-weight="700" fill="#7dd3e8" letter-spacing="1">Yuritza Rojas</text>
+  <text x="340" y="143" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="400" fill="#4a5568">Programadora &amp; Geóloga</text>
+
+  <rect x="168" y="158" width="76" height="26" rx="13" fill="#e8e4f8" stroke="#a5b4fc" stroke-width="1"/>
+  <text x="206" y="175" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="500" fill="#4338ca">&#955; Python</text>
+
+  <rect x="254" y="158" width="60" height="26" rx="13" fill="#e8f5ef" stroke="#6ee7b7" stroke-width="1"/>
+  <text x="284" y="175" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="500" fill="#065f46">&#9651; GIS</text>
+
+  <rect x="324" y="158" width="96" height="26" rx="13" fill="#fef3c7" stroke="#fcd34d" stroke-width="1"/>
+  <text x="372" y="175" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="500" fill="#92400e">&#8962; Data Science</text>
+
+  <rect x="430" y="158" width="82" height="26" rx="13" fill="#fde8e3" stroke="#fca5a5" stroke-width="1"/>
+  <text x="471" y="175" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="500" fill="#9b2335">&#10040; Geología</text>
+
+  <text x="340" y="206" text-anchor="middle" font-family="monospace" font-size="11" fill="#374151" opacity="0.7">[ Donde el código se encuentra con la ciencia de la tierra ]</text>
+</svg>
