@@ -11,11 +11,9 @@
   </a>
 </p>
 
-<br>
-
 ## SOBRE MI
 
-Soy estudiante de **Geología** en la Universidad Industrial de Santander (UIS) y de **Desarrollo de Software** en Campuslands, con 22 años y una gran pasión por el punto donde la ciencia de la Tierra y la programación se encuentran. Me fascina cómo el código puede ayudarnos a entender mejor nuestro planeta: desde el análisis de datos sísmicos hasta la visualización de estructuras geológicas.
+Soy estudiante de **Geología** en la Universidad Industrial de Santander (UIS) y de **Desarrollo de Software** en Campuslands, con *22* años y una gran pasión por el punto donde la ciencia de la Tierra y la programación se encuentran. Me fascina cómo el código puede ayudarnos a entender mejor nuestro planeta: desde el análisis de datos sísmicos hasta la visualización de estructuras geológicas.
 
 - 🪨 Estudiante de Geología — UIS, Bucaramanga
 - 💻 Estudiante de Desarrollo de Software — Campuslands
@@ -51,8 +49,6 @@ if __name__ == '__main__':
 <br>
 
 ## HABILIDADES
-
-<br>
 
 <p align="center">
 
@@ -117,18 +113,18 @@ if __name__ == '__main__':
 </a>
 
 </div>
+<br>
 
-## 🐍 
+## *"Aprende a serpentear: utiliza las irregularidades y obstáculos del terreno como puntos de apoyo para avanzar"* 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yuritrojasmantilla/yuritrojasmantilla/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br><br><br>
+<br>
 
 <div align="center">
   <i>✨ "Las rocas guardan millones de años de historia; el código, las posibilidades del mañana." ✨</i>
