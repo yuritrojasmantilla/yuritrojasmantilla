@@ -19,7 +19,6 @@ Soy estudiante de **Geología** en la Universidad Industrial de Santander (UIS) 
 - 💻 Estudiante de Desarrollo de Software — Campuslands
 - 🌐 Me interesa la intersección entre **geociencias y tecnología**
 - 🔭 Explorando cómo la programación puede potenciar la ciencia
-- 📍 Bucaramanga, Colombia
 
 <br>
 
@@ -32,7 +31,9 @@ class YuritzaRojas():
     self.location   = "Bucaramanga, Colombia"
     self.education  = ["Geología - UIS", "Desarrollo de Software - Campuslands"]
     self.age        = 22
+    self.languages  = ["Español", "Inglés"]
     self.interests  = ["Geociencias", "Programación", "Ciencia de datos"]
+    self.hobbits    = ["Leer", "Patinar", "Nadar", "Senderismo"]
     self.motto      = "Las rocas guardan la historia del planeta; el código, la del futuro."
 
   def __str__(self):
