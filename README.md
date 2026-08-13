@@ -30,10 +30,9 @@ class YuritzaRojas():
     self.username   = "yuritrojasmantilla"
     self.location   = "Bucaramanga, Colombia"
     self.education  = ["Geología - UIS", "Desarrollo de Software - Campuslands"]
-    self.age        = 22
+    self.age        = 23
     self.languages  = ["Español", "Inglés"]
     self.interests  = ["Geociencias", "Programación", "Ciencia de datos"]
-    self.hobbits    = ["Leer", "Patinar", "Nadar", "Senderismo"]
     self.motto      = "Las rocas guardan la historia del planeta; el código, la del futuro."
 
   def __str__(self):
