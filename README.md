@@ -2,18 +2,16 @@
   <b>¡Hola! Soy Yuritza Juliana Rojas Mantilla</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-<p align="center">
-  <img src="./banner.svg" alt="Banner Yuritza Rojas" width="100%"/>
-</p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=22&center=true&vCenter=true&width=650&height=100&lines=Estudiante+de+Geología+%7C+UIS+🪨;Desarrolladora+de+Software+%7C+Campuslands+💻;La+tierra+tiene+memoria...+y+yo+aprendo+a+leerla+🌍;Donde+la+ciencia+y+el+código+se+encuentran+✨;Siempre+aprendiendo,+siempre+explorando+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=22&center=true&vCenter=true&width=650&height=100&lines=Estudiante+de+Geología+%7C+UIS+🪨;Desarrolladora+de+Software+%7C+Campuslands+💻;La+tierra+tiene+memoria...+y+yo+aprendo+a+leerla+🌍;Donde+la+ciencia+y+el+código+se+encuentran+✨>
   </a>
 </p>
 
 ## About Me
 
-Soy estudiante de **Geología** en la Universidad Industrial de Santander (UIS) y de **Desarrollo de Software** en Campuslands, con *22* años y una gran pasión por el punto donde la ciencia de la Tierra y la programación se encuentran. Me fascina cómo el código puede ayudarnos a entender mejor nuestro planeta: desde el análisis de datos sísmicos hasta la visualización de estructuras geológicas en Google Earth Engine.
+Soy estudiante de **Geología** en la Universidad Industrial de Santander (UIS) y de **Desarrollo de Software** en Campuslands, con *23* años y una gran pasión por el punto donde la ciencia de la Tierra y la programación se encuentran. Me fascina cómo el código puede ayudarnos a entender mejor nuestro planeta: desde el análisis de datos sísmicos hasta la visualización de estructuras geológicas en Google Earth Engine.
 
 - 🪨 Estudiante de Geología — UIS, Bucaramanga
 - 💻 Estudiante de Desarrollo de Software — Campuslands
