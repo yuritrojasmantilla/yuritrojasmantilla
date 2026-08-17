@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=22&center=true&vCenter=true&width=650&height=100&lines=Estudiante+de+Geología+%7C+UIS+🪨;Desarrolladora+de+Software+%7C+Campuslands+💻;La+tierra+tiene+memoria...+y+yo+aprendo+a+leerla+🌍;Donde+la+ciencia+y+el+código+se+encuentran+✨>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=22&center=true&vCenter=true&width=650&height=100&lines=Estudiante+de+Geología+%7C+UIS+🪨;Desarrolladora+de+Software+%7C+Campuslands+💻;La+tierra+tiene+memoria...+y+yo+aprendo+a+leerla+🌍;Donde+la+ciencia+y+el+código+se+encuentran+✨">
   </a>
 </p>
 
@@ -55,6 +55,8 @@ if __name__ == '__main__':
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>
 
@@ -62,14 +64,6 @@ if __name__ == '__main__':
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
-**Próximamente — en mi horizonte de aprendizaje:**
-
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <br>
 
