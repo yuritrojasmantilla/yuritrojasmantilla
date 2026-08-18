@@ -124,9 +124,10 @@ if __name__ == '__main__':
 
 <br><br>
 
-<!--START_SECTION:activity-->
+##Actividad:
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 ---
 
 <div align="center">
