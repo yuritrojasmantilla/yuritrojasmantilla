@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F4C6D0,100:C9B8E8&height=180&text=Yuritza%20Juliana%20Rojas%20Mantilla&fontSize=30&fontColor=4B1D6E&fontAlignY=38&desc=Geóloga%20en%20formación%20·%20Desarrolladora%20de%20Software&descAlignY=58&descSize=15&descColor=4B1D6E)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F4C6D0,100:C9B8E8&height=180&text=Yuritza%20Juliana%20Rojas%20Mantilla&fontSize=30&fontColor=2B1F2B&fontAlignY=38&desc=Geóloga%20en%20formación%20·%20Desarrolladora%20de%20Software&descAlignY=58&descSize=15&descColor=2B1F2B)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C97B94&size=20&center=true&vCenter=true&width=650&height=50&lines=La+tierra+tiene+memoria...+y+yo+aprendo+a+leerla;Donde+la+ciencia+y+el+código+se+encuentran" alt="Frase animada"/>
 
