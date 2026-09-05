@@ -122,11 +122,11 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 ## Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/yuritrojasmantilla](https://github.com/yuritrojasmantilla/yuritrojasmantilla)<br>
-2. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/yuritrojasmantilla](https://github.com/yuritrojasmantilla/yuritrojasmantilla)<br>
+1. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/Portafolio-Yuritza-Rojas](https://github.com/yuritrojasmantilla/Portafolio-Yuritza-Rojas)<br>
+2. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/Portafolio-Yuritza-Rojas](https://github.com/yuritrojasmantilla/Portafolio-Yuritza-Rojas)<br>
 3. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/yuritrojasmantilla](https://github.com/yuritrojasmantilla/yuritrojasmantilla)<br>
 4. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/yuritrojasmantilla](https://github.com/yuritrojasmantilla/yuritrojasmantilla)<br>
-5. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/yuritrojasmantilla.github.io](https://github.com/yuritrojasmantilla/yuritrojasmantilla.github.io)<br>
+5. 💪 Opened PR [#4](undefined) in [yuritrojasmantilla/Portafolio-Yuritza-Rojas](https://github.com/yuritrojasmantilla/Portafolio-Yuritza-Rojas)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 
