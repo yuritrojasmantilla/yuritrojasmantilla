@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F4C6D0,100:C9B8E8&height=180&text=Yuritza%20Juliana%20Rojas%20Mantilla&fontSize=30&fontColor=2B1F2B&fontAlignY=38&desc=Geóloga%20en%20formación%20·%20Desarrolladora%20de%20Software&descAlignY=58&descSize=15&descColor=2B1F2B)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F4C6D0,100:C9B8E8&height=180&text=Yuritza%20Juliana%20Rojas%20Mantilla&fontSize=30&fontColor=4B1D6E&fontAlignY=38&desc=Geóloga%20en%20formación%20·%20Desarrolladora%20de%20Software&descAlignY=58&descSize=15&descColor=4B1D6E)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C97B94&size=20&center=true&vCenter=true&width=650&height=50&lines=La+tierra+tiene+memoria...+y+yo+aprendo+a+leerla;Donde+la+ciencia+y+el+código+se+encuentran" alt="Frase animada"/>
 
@@ -30,18 +30,19 @@ class YuritzaRojas():
         self.languages = ["Español", "Inglés"]
         self.tools     = ["Git", "Docker"]
         self.interests = ["Geociencias", "Programación", "Ciencia de datos"]
-        self.motto     = "Las rocas guardan la historia del planeta, el código, la del futuro."
+        self.motto     = "Las rocas guardan la historia del planeta; el código, la del futuro."
 
     def __str__(self):
         return self.name
 
+
 if __name__ == '__main__':
     me = YuritzaRojas()
 ```
-Soy estudiante de **Geología** en la Universidad Industrial de Santander (UIS) y de **Desarrollo de Software** en Campuslands, con *23* años y una gran pasión por el punto donde la ciencia de la Tierra y la programación se encuentran. Me fascina cómo el código puede ayudarnos a entender mejor nuestro planeta: desde el análisis de datos sísmicos hasta la visualización de estructuras geológicas en Google Earth Engine.
+
+Estudio Geología en la Universidad Industrial de Santander y Desarrollo de Software en Campuslands. Me interesa el punto de encuentro entre ambas disciplinas: usar programación, automatización y análisis de datos para resolver problemas geocientíficos.
 
 Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis geoespacial, en paralelo con proyectos de automatización basados en n8n e inteligencia artificial.
-
 
 ---
 
@@ -90,6 +91,8 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 
 ## Formación
 
+<div align="center">
+
 | Área | Estado |
 |---|---|
 | Python para análisis de datos geoespaciales | Completado |
@@ -98,6 +101,8 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 | Java | En curso |
 | SQL / PostgreSQL | En curso |
 | Tesis de pregrado | En curso |
+
+</div>
 
 ---
 
