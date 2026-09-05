@@ -1,6 +1,8 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:F4C6D0,100:C9B8E8&height=150&text=Yuritza%20Juliana%20Rojas%20Mantilla&fontSize=30&fontColor=4A3F4E&fontAlignY=45&desc=Geóloga%20en%20formación%20·%20Desarrolladora%20de%20Software&descAlignY=68&descSize=15&descColor=5B4B5A)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F4C6D0,100:C9B8E8&height=180&text=Yuritza%20Juliana%20Rojas%20Mantilla&fontSize=30&fontColor=4A3F4E&fontAlignY=38&desc=Geóloga%20en%20formación%20·%20Desarrolladora%20de%20Software&descAlignY=58&descSize=15&descColor=5B4B5A)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C97B94&size=20&center=true&vCenter=true&width=650&height=50&lines=La+tierra+tiene+memoria...+y+yo+aprendo+a+leerla;Donde+la+ciencia+y+el+código+se+encuentran" alt="Frase animada"/>
 
 **Universidad Industrial de Santander · Campuslands**
 Bucaramanga, Colombia
@@ -8,12 +10,35 @@ Bucaramanga, Colombia
 [![Gmail](https://img.shields.io/badge/Gmail-C97B94?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuritrojasmantilla@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9B8AC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuritza-j-rojas-m-1580b4245)
 [![GitHub](https://img.shields.io/badge/GitHub-8FA88F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuritrojasmantilla)
+[![Instagram](https://img.shields.io/badge/Instagram-B9AEC9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__yuritrm/)
 
 </div>
 
 ---
 
 ## Sobre mí
+
+```python
+class YuritzaRojas():
+
+    def __init__(self):
+        self.name      = "Yuritza Juliana Rojas Mantilla"
+        self.username  = "yuritrojasmantilla"
+        self.location  = "Bucaramanga, Colombia"
+        self.education = ["Geología - UIS", "Desarrollo de Software - Campuslands"]
+        self.age       = 23
+        self.languages = ["Español", "Inglés"]
+        self.tools     = ["Git", "Docker"]
+        self.interests = ["Geociencias", "Programación", "Ciencia de datos"]
+        self.motto     = "Las rocas guardan la historia del planeta; el código, la del futuro."
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = YuritzaRojas()
+```
 
 Estudio Geología en la Universidad Industrial de Santander y Desarrollo de Software en Campuslands. Me interesa el punto de encuentro entre ambas disciplinas: usar programación, automatización y análisis de datos para resolver problemas geocientíficos.
 
@@ -47,6 +72,7 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 
 ![Git](https://img.shields.io/badge/Git-B9AEC9?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-B9AEC9?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-B9AEC9?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-B9AEC9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -80,8 +106,7 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuritrojasmantilla&show_icons=true&hide_border=true&bg_color=FDF6F9&title_color=C97B94&icon_color=9B8AC4&text_color=5B4B5A" alt="Estadísticas de GitHub" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=yuritrojasmantilla&hide_border=true&background=FDF6F9&ring=C97B94&fire=C97B94&currStreakLabel=5B4B5A&sideLabels=5B4B5A&currStreakNum=4A3F4E&sideNums=4A3F4E&dates=8F8291" alt="Racha de contribuciones" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuritrojasmantilla&theme=default" alt="Detalles del perfil de GitHub"/>
 
 </div>
 
@@ -93,6 +118,11 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:C9B8E8,100:F4C6D0&height=80&section=footer)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:C9B8E8,100:F4C6D0&height=100&section=footer)
 
 </div>
+
+## Actividad reciente
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
