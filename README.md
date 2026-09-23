@@ -124,9 +124,9 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/Proyecto_BD_Avanzada_YuritzaRojas](https://github.com/yuritrojasmantilla/Proyecto_BD_Avanzada_YuritzaRojas)<br>
 2. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/Proyecto_BD_Avanzada_YuritzaRojas](https://github.com/yuritrojasmantilla/Proyecto_BD_Avanzada_YuritzaRojas)<br>
-3. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/TallerDatabase-ASOGASINGA](https://github.com/yuritrojasmantilla/TallerDatabase-ASOGASINGA)<br>
+3. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/documento](https://github.com/yuritrojasmantilla/documento)<br>
 4. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/TallerDatabase-ASOGASINGA](https://github.com/yuritrojasmantilla/TallerDatabase-ASOGASINGA)<br>
-5. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/Portafolio-Yuritza-Rojas](https://github.com/yuritrojasmantilla/Portafolio-Yuritza-Rojas)<br>
+5. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/TallerDatabase-ASOGASINGA](https://github.com/yuritrojasmantilla/TallerDatabase-ASOGASINGA)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 
