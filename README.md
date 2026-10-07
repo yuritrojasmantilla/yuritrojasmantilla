@@ -123,9 +123,9 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/TesisHidrogenoNatural](https://github.com/yuritrojasmantilla/TesisHidrogenoNatural)<br>
-2. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/Proyecto_BD_Avanzada_YuritzaRojas](https://github.com/yuritrojasmantilla/Proyecto_BD_Avanzada_YuritzaRojas)<br>
+2. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/TesisHidrogenoNatural](https://github.com/yuritrojasmantilla/TesisHidrogenoNatural)<br>
 3. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/Proyecto_BD_Avanzada_YuritzaRojas](https://github.com/yuritrojasmantilla/Proyecto_BD_Avanzada_YuritzaRojas)<br>
-4. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/TallerDatabase-ASOGASINGA](https://github.com/yuritrojasmantilla/TallerDatabase-ASOGASINGA)<br>
+4. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/Proyecto_BD_Avanzada_YuritzaRojas](https://github.com/yuritrojasmantilla/Proyecto_BD_Avanzada_YuritzaRojas)<br>
 5. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/TallerDatabase-ASOGASINGA](https://github.com/yuritrojasmantilla/TallerDatabase-ASOGASINGA)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
