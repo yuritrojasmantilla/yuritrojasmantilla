@@ -123,7 +123,6 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/JAVA_DECORATOR](https://github.com/yuritrojasmantilla/JAVA_DECORATOR)<br>
-2. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/JAVA_DECORATOR](https://github.com/yuritrojasmantilla/JAVA_DECORATOR)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 
