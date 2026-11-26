@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C97B94&size=20&center=true&vCenter=true&width=650&height=50&lines=La+tierra+tiene+memoria...+y+yo+aprendo+a+leerla;Donde+la+ciencia+y+el+código+se+encuentran" alt="Frase animada"/>
 
-**Universidad Industrial de Santander · Campuslands**
+**Universidad Industrial de Santander · Campuslands**<br>
 Bucaramanga, Colombia
 
 [![Gmail](https://img.shields.io/badge/Gmail-C97B94?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuritrojasmantilla@gmail.com)
