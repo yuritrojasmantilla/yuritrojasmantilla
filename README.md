@@ -40,7 +40,7 @@ if __name__ == '__main__':
 ```
 Soy estudiante de **Geología** en la Universidad Industrial de Santander (UIS) y de **Desarrollo de Software** en Campuslands, con *23* años y una gran pasión por el punto donde la ciencia de la Tierra y la programación se encuentran. Me fascina cómo el código puede ayudarnos a entender mejor nuestro planeta: desde el análisis de datos sísmicos hasta la visualización de estructuras geológicas en Google Earth Engine.
 
-Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis geoespacial, en paralelo con proyectos de automatización basados en n8n e inteligencia artificial.
+Recientemente presenté mi tesis de pregrado, en la que integré Python, teledetección y análisis geoespacial para identificar posibles círculos de hadas asociados a emisiones de hidrógeno natural en La Guajira, a partir de anomalías vegetacionales en imágenes de alta resolución. Actualmente estoy aprendiendo Spring Boot y fortaleciendo mis conocimientos en Java y bases de datos mediante proyectos prácticos, con el interés de seguir conectando la programación con la solución de problemas reales.
 
 
 ---
@@ -49,30 +49,30 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 
 **Lenguajes y desarrollo web**
 
-![Python](https://img.shields.io/badge/Python-C97B94?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-C97B94?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-C97B94?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-C97B94?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-C97B94?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C97B94?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-C97B94?style=for-the-badge&logo=python&logoColor=white)](#habilidades-técnicas)
+[![JavaScript](https://img.shields.io/badge/JavaScript-C97B94?style=for-the-badge&logo=javascript&logoColor=white)](#habilidades-técnicas)
+[![HTML5](https://img.shields.io/badge/HTML5-C97B94?style=for-the-badge&logo=html5&logoColor=white)](#habilidades-técnicas)
+[![CSS3](https://img.shields.io/badge/CSS3-C97B94?style=for-the-badge&logo=css3&logoColor=white)](#habilidades-técnicas)
+[![Java](https://img.shields.io/badge/Java-C97B94?style=for-the-badge&logo=openjdk&logoColor=white)](#habilidades-técnicas)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C97B94?style=for-the-badge&logo=postgresql&logoColor=white)](#habilidades-técnicas)
 
 **Automatización e inteligencia artificial**
 
-![n8n](https://img.shields.io/badge/n8n-9B8AC4?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-9B8AC4?style=for-the-badge&logo=openai&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-9B8AC4?style=for-the-badge&logo=googlesheets&logoColor=white)
+[![n8n](https://img.shields.io/badge/n8n-9B8AC4?style=for-the-badge&logo=n8n&logoColor=white)](#habilidades-técnicas)
+[![OpenAI](https://img.shields.io/badge/OpenAI-9B8AC4?style=for-the-badge&logo=openai&logoColor=white)](#habilidades-técnicas)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-9B8AC4?style=for-the-badge&logo=googlesheets&logoColor=white)](#habilidades-técnicas)
 
 **Geociencias y SIG**
 
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-8FA88F?style=for-the-badge&logo=googleearth&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-8FA88F?style=for-the-badge&logo=qgis&logoColor=white)
+[![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-8FA88F?style=for-the-badge&logo=googleearth&logoColor=white)](#habilidades-técnicas)
+[![QGIS](https://img.shields.io/badge/QGIS-8FA88F?style=for-the-badge&logo=qgis&logoColor=white)](#habilidades-técnicas)
 
 **Herramientas**
 
-![Git](https://img.shields.io/badge/Git-B9AEC9?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-B9AEC9?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-B9AEC9?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-B9AEC9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-B9AEC9?style=for-the-badge&logo=git&logoColor=white)](#habilidades-técnicas)
+[![GitHub](https://img.shields.io/badge/GitHub-B9AEC9?style=for-the-badge&logo=github&logoColor=white)](#habilidades-técnicas)
+[![Docker](https://img.shields.io/badge/Docker-B9AEC9?style=for-the-badge&logo=docker&logoColor=white)](#habilidades-técnicas)
+[![VS Code](https://img.shields.io/badge/VS%20Code-B9AEC9?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#habilidades-técnicas)
 
 ---
 
@@ -81,6 +81,7 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 | Proyecto | Descripción |
 |---|---|
 | **Detección de hidrógeno natural — La Guajira** | Pipeline de teledetección (Python, Google Earth Engine, QGIS) para identificar círculos de hadas asociados a emisiones de hidrógeno natural, mediante índices espectrales y detección geométrica por bloques |
+| **Frescura Total — ERP** | 	Sistema de gestión para una bodega, desarrollado en Java con arquitectura MVC e interfaz de consola. Integra la gestión de productos e inventario, con validación de datos y organización modular del código. |
 | **GeoBitácora** | Formulario web de registro geológico de campo, con clasificación automática y almacenamiento en PostgreSQL, orquestado con n8n |
 | **TalentFlow AI** | Sistema de preselección de candidatos que extrae hojas de vida en PDF, las analiza con IA y calcula compatibilidad con la vacante |
 | **TI Service Desk** | Formulario web para crear y actualizar tickets de soporte técnico, integrado con webhooks de n8n |
@@ -97,9 +98,10 @@ Actualmente desarrollo mi tesis de pregrado aplicando teledetección y análisis
 | Python para análisis de datos geoespaciales | Completado |
 | Git y control de versiones | Completado |
 | HTML, CSS y JavaScript | Completado |
-| Java | En curso |
-| SQL / PostgreSQL | En curso |
-| Tesis de pregrado | En curso |
+| Java | Completado |
+| SQL / PostgreSQL | Completado |
+| Tesis de pregrado | Completado |
+| Spring Boot | En Curso |
 
 </div>
 
