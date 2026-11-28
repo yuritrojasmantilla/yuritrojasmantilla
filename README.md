@@ -124,6 +124,8 @@ Recientemente presenté mi tesis de pregrado, en la que integré Python, teledet
 ## Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/yuritrojasmantilla](https://github.com/yuritrojasmantilla/yuritrojasmantilla)<br>
+2. ⬆️ Pushed undefined commit(s) to [yuritrojasmantilla/yuritrojasmantilla](https://github.com/yuritrojasmantilla/yuritrojasmantilla)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 
